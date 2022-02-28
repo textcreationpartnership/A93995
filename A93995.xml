@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A strange and wonderful relation from Shadvvel or, The devil visible Being a most true and faithful account how the devil in human shape, on the 3d. of this instant July, made his appearance to a gentlewoman there, (a person that had formerly lived well, but now reduced to poverty) with a bag of money in one hand, and a knife in the other, tempting her to murther one of her children. As also how she refused, and resisted his temptation, imploring the prayers of her neighbours, of whom, two plainly saw this evil spirit, going forth of the house.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93995</idno>
+            <idno type="STC">Wing S5874bA</idno>
+            <idno type="STC">ESTC R231590</idno>
+            <idno type="EEBO-CITATION">99896848</idno>
+            <idno type="PROQUEST">99896848</idno>
+            <idno type="VID">137089</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93995)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137089)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2448:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A strange and wonderful relation from Shadvvel or, The devil visible Being a most true and faithful account how the devil in human shape, on the 3d. of this instant July, made his appearance to a gentlewoman there, (a person that had formerly lived well, but now reduced to poverty) with a bag of money in one hand, and a knife in the other, tempting her to murther one of her children. As also how she refused, and resisted his temptation, imploring the prayers of her neighbours, of whom, two plainly saw this evil spirit, going forth of the house.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year, 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apparitions --  Early works to 1800.</term>
+               <term>Devil --  Early works to 1800.</term>
+               <term>Witchcraft --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137089:1"/>
+            <!-- PDF PAGE 113 -->
+            <pb facs="tcp:137089:1"/>
+            <!-- PDF PAGE 113 -->
+            <pb facs="tcp:137089:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 114 -->
+            <pb facs="tcp:137089:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 114 -->
+            <p>A Strange and Wonderful RELATION FROM SHADWEL OR, The <hi>DEVIL</hi> Viſible.</p>
+            <p>BEING A moſt true and faithful account how the <hi>Devil</hi> in human Shape, on the 3d. of this Inſtant <hi>July,</hi> made his Appearance to a Gentle<g ref="char:EOLhyphen"/>woman there, (a perſon that had formerly lived well, but now reduced to poverty) with a Bag of Money in one hand, and a Knife in the other, tempting her to Murther one of her Children.</p>
+            <p>As alſo how ſhe refuſed, and reſiſted his Temp<g ref="char:EOLhyphen"/>tation, Imploring the Prayers of her Neigh<g ref="char:EOLhyphen"/>bours, of whom, two plainly ſaw this evil Spirit, going forth of the Houſe.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Smith,</hi> in the Year, 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:137089:3"/>
+            <!-- PDF PAGE 115 -->
+            <pb n="1" facs="tcp:137089:3"/>
+            <!-- PDF PAGE 115 -->
+            <head>
+               <hi>A</hi> Strange and Wonderful Relation from <hi>Shadwell, OR, The</hi> Devil <hi>viſible.</hi>
+            </head>
+            <p>THough the prodigious ſwarm of Pamph<g ref="char:EOLhyphen"/>lets, which of late the over-teeming Preſs hath Spawn'd into the World, may have rendred in a great meaſure, ſuch Relations both ſuſpected and Contemptible; yet the certain<g ref="char:EOLhyphen"/>ty of the matter that Impregnates this ſheet, the nearneſs of the place where it happened, and the notoriouſneſs of the thing, ſeems not only to de<g ref="char:EOLhyphen"/>ſerve, but challenge and require, that a full and faithful Account thereof ſhould be preſented to the publique; Since the ſame is done not ſo much to gratify peoples vain Curioſity, or rickle thoſe Itch<g ref="char:EOLhyphen"/>ing Ears which (like the Idle <hi>Athenians</hi> of old) are perpetually Liſtening after ſtrange Novelties. As to Alarm and awaken all, by ſo freſh and preſent an
+<pb n="2" facs="tcp:137089:4"/>
+               <!-- PDF PAGE 116 -->Example to ſtand upon their Watch, and Guard themſelves (as they value the ſafety and Salvation of their precious Immortal Souls) with the <hi>whole Armor of God,</hi> but eſpecially the <hi>ſhield of Faith,</hi> againſt the Aſſaults of the Tempter.</p>
+            <p>For though it be moſt true, as the Sacred Oracles of Divine Writ teſtify, that this reſtleſs Enemy of mankinds peace and happineſs, hath ever ſince he be<g ref="char:EOLhyphen"/>guiled our firſt Parents in Paradize, <hi>gone too and fro as a roaring Lion, ſeeking whom he may devour.</hi> Yet we find by two woful Experience, that in this latter and worſt Age of the World, his malicious and Helliſh Induſtry is encreaſed more than ever; And (as all things move with a Swifter and more violent motion the nearer they approach to their Center) ſo this dreadful Tyrant Prince of the Air, appre<g ref="char:EOLhyphen"/>hending his Chain to ſhrink, and that he muſt ſhortly be tumbled into, and confined for Eternity in that bottomleſs Pit, prepared for him and his ſeduced Servants; Endeavours with greater diligence and more openly to ſpread his Nets, and Inveagle as many as he can into the ſame Lake of Perdition with him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>For certainly no good Conſiderate Chriſtian, can but with grief of Soul have obſerved, what a plen<g ref="char:EOLhyphen"/>tiful (but moſt deplorable) Harveſt he has lately made amongſt us, by thoſe numbers that in or about this very City, have been drawn by his ſubtle ſug<g ref="char:EOLhyphen"/>geſtions, and the mediation of diſpare within few weeks, laſt paſt, to lay violent hands upon themſelves, and cut off the thred of their own Lives, by hanging themſelves, drowning themſelves, breaking their
+<pb n="3" facs="tcp:137089:4"/>
+               <!-- PDF PAGE 116 -->own Necks, cutting their own Throats, and the like ſad means wherewith our Laws are daily Alarm'd, Contrary both to the Laws of God, and dictates of Nature, in whoſe Charter ſelf-preſervation has been always accounted the firſt Article.</p>
+            <p>But this Proemium (though if ſoberly conſidered, not altogether Impertinent) may perhaps ſeem two great a Gate for ſo ſmall a Fabrique, and therefore we haſten to the intended matter, being truely and briefly thus.</p>
+            <p>In the Pariſh of St. <hi>Paul</hi> Shadwell (fately made ſo by Act of Parliament, being formerly a Hamlet or part of <hi>Stepney</hi>) lives a Woman, who deſcended of good Parents, who beſides the Precious Legacy of an honeſt Fame left her, when they paid that debt which we all owe to Nature, a handſome Compe<g ref="char:EOLhyphen"/>tency of the Goods of Fortune, ſhe having to the value of three hundred Pounds to her Portion, And being le<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t by their deceaſe in ſo Creditable a Condition, wholly at her own diſpoſe, ſhe Spun not on the Thread of her Life very many Years, before ſhe twiſted it in Matrimony, Being Match'd ſome Years ſince to an honeſt Seaman of good repute, named <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whoſe promiſing Induſtry aſſiſted by her before mentioned Fortune, Seem'd to beſpeak their marriage happy, and probably aſſure to the re<g ref="char:EOLhyphen"/>mainder of their Lives a comfortable ſubſiſtence; But as truth it ſelf has told us, <hi>That the Race is not always to the Swift,</hi> So Experience daily convinces that there is a vaſt difference between human likelyhoods and the Miſterious decrees of Fate. For notwith<g ref="char:EOLhyphen"/>ſtanding
+<pb n="4" facs="tcp:137089:5"/>
+               <!-- PDF PAGE 117 -->theſe advantages by ſome unhappy accidents rather than defaults properly chargeable on either of them, their eſtate began ſenſibly to waſt, and in time to be totally conſumed, that they were now re<g ref="char:EOLhyphen"/>duced to the very Brink of neceſſity, having not ſuf<g ref="char:EOLhyphen"/>ficient left to maintain or provide Bread for her ſelf, and ſeveral ſmall Children which ſhe had brought into the World, the thoughts of whoſe pining and half ſtarving Condition, and Conſideration of her Husbands abſence (who is at preſent gone a long voyage to Sea) ſo that ſhe could not for a long time expect any Relief from him, put this poor diſtreſſed Woman of late into ſuch a melancholly grief, that ſeem'd to border on diſpair, ſo that ſhe was ſeldom alone, but ſhe was bewailing her misfortunes with paſſionate Complaints, whilſt her languiſhing Cheeks over-flow'd with a briny ocean of Tears.</p>
+            <p>
+               <hi>Satan</hi> (that has ever Tutor'd wicked Polititians to Fiſh in troubled waters) was not wanting here to practiſe that Maxim himſelf. That ſubtle degraded <hi>Seraphin</hi> knows two well, that want is one of the readieſt and moſt open Inlets for his Temptations, and therefore deſigns, whilſt her mind is toſt in this diſmal Tempeſt, to Ship-wrack her Soul.</p>
+            <p>For on the third of <hi>July</hi> laſt, ſhe being extraor<g ref="char:EOLhyphen"/>dinarily ſtraitned, ſo that ſhe knew not what to do, and being retired (as is uſual with melancholly diſ<g ref="char:EOLhyphen"/>treſſed and afflicted perſons) up into a Chamber, that with more freedom ſhe might bemoan her Condi<g ref="char:EOLhyphen"/>tion, In broad day light this ever buſy Tempter pre<g ref="char:EOLhyphen"/>ſents himſelf to her, who, having at her coming into the Room ſhut the door, which ſtill to her apprehen<g ref="char:EOLhyphen"/>ſion
+<pb n="5" facs="tcp:137089:5"/>
+               <!-- PDF PAGE 117 -->had Continued laſt, was not a little ſurprized to ſee a man (as by his form ſhe at firſt Judged him to be) there intruding on her privacy, and ſtanding Juſt by her, But was much more aſtoniſht, when ſhe be<g ref="char:EOLhyphen"/>held in his right hand a naked knife, and in the other a large Purſe filled as it were with money, and was Juſt ready to cry out when this Apparition began to ſpeak to her.</p>
+            <p>Who ſpoke in ſmooth language, and a low but ſhril Inſinuating voice repreſents, <q>That he well knew her wants and diſtreſs, and that he came there on pur<g ref="char:EOLhyphen"/>poſe in pity to relieve them, But that if ſhe would not hearken to his advice, ſhe ſhould be ten times more miſerable than ſhe was at preſent; For her Husband was dead, and no ſuccour to be expected from him.</q> [mark here the truth of the Goſpel, ſay<g ref="char:EOLhyphen"/>ing, the <hi>Devil</hi> was a Lyar from the beginning.] That ſhe had a moſt Inſupportable Charge of Children, and that ſhe ſhould never be happy till ſhe had leſſen'd their number, that her youngeſt Child which then (poor Babe) happened to be Innocently fleep<g ref="char:EOLhyphen"/>ing on a Bed in the ſame Room, beſides the preſent miſeries it ſuffered, was born to much greater miſ<g ref="char:EOLhyphen"/>fortunes which it muſt undergo, and therefore ſhe ſhould now come and diſpatch it from thoſe afflicti<g ref="char:EOLhyphen"/>ons and eaſe her own Charge, by Killing of it, which he would ſecure her ſhould never be known or diſcovered, and that thereupon he would give her all that money in the Purſe (holding it forth) and more from time to time, ſo that ſhe ſhould never want, and upon that proffered her the Knife to Exe<g ref="char:EOLhyphen"/>cute what he perſwaded her to.</p>
+            <pb n="6" facs="tcp:137089:6"/>
+            <!-- PDF PAGE 118 -->
+            <p>The poor Woman in a fright, and Juſt Indignation at this horrid bloody propoſal, and ſome other Symtoms, concluding it could be no other but the <hi>Devil,</hi> which could adviſe her to ſuch a barbarous Impiety, began with a devout fervency to deteſt an Action ſo abominable, and calling on the name of the Lord, run down ſtairs and into the Street, where meeting ſome of her Neighbours at the door, ſhe with an amazing vehemency, intreated their Prayers to God for her Protection.</p>
+            <p>Immediately after her coming down, two of theſe Neighbours plainly ſaw the l<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>keneſs of a tall man in black Habit come down ſtairs, and ſo into the ſtreet by them, but he did not ſeem to walk as men do, but rather glide along like a ſhadow, and at a ſmall diſtance diſappear'd, but though they ſpoke and pointed at it, yet, neither the woman nor any of the reſt could then ſee it.</p>
+            <p>Several Divines and other ſober perſons have been ſince with her, who confirmes the truth of this Re<g ref="char:EOLhyphen"/>lation, and for this latter art theſe two other per<g ref="char:EOLhyphen"/>ſons are both ready to atteſt it, for the Satisfaction of any judicious enquirer, the Woman her ſelf remain<g ref="char:EOLhyphen"/>ing ſtill in trouble of Spirit, and deſiring the Prayers of all good Chriſtians to Allmighty God for his Grace, that as by the ſame in this grievous and terri<g ref="char:EOLhyphen"/>ble tryal, ſo at all times hereafter, ſhe may be enabled to withſtand the wiles of the Tempter.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:137089:6"/>
+            <!-- PDF PAGE 118 -->
+         </div>
+      </body>
+   </text>
+</TEI>
